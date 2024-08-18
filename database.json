@@ -1,0 +1,38 @@
+{
+  "clans": [
+    "test",
+    {
+      "guild": "1274470246895587482",
+      "icon": null,
+      "unicodeEmoji": null,
+      "id": "1274474688646742116",
+      "name": "test",
+      "color": 0,
+      "hoist": false,
+      "rawPosition": 1,
+      "permissions": "2248473465835073",
+      "managed": false,
+      "mentionable": false,
+      "tags": null,
+      "flags": 0,
+      "createdTimestamp": 1723928844368
+    },
+    "الكوزا",
+    {
+      "guild": "1274470246895587482",
+      "icon": null,
+      "unicodeEmoji": null,
+      "id": "1274481461218644059",
+      "name": "الكوزا",
+      "color": 0,
+      "hoist": false,
+      "rawPosition": 1,
+      "permissions": "2248473465835073",
+      "managed": false,
+      "mentionable": false,
+      "tags": null,
+      "flags": 0,
+      "createdTimestamp": 1723930459075
+    }
+  ]
+}
